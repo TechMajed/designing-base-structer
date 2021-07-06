@@ -16,8 +16,11 @@ As illustrated in the figure above the locations of the electrical components.
 
 ![image](https://user-images.githubusercontent.com/85939115/124671324-faa16b00-debd-11eb-9449-8d19c699554e.png)
 ![image](https://user-images.githubusercontent.com/85939115/124671350-02f9a600-debe-11eb-9af5-c38b1b1dd3fa.png)
+
 top view of the robot arm range.
+
 ![image](https://user-images.githubusercontent.com/85939115/124671368-09881d80-debe-11eb-9b05-bf90d3441b7f.png)
+
 right view of the robot arm range.
 
 
@@ -26,4 +29,5 @@ right view of the robot arm range.
 ![image](https://user-images.githubusercontent.com/85939115/124671516-418f6080-debe-11eb-92d8-a9e49b59c311.png)
 
 ![image](https://user-images.githubusercontent.com/85939115/124671544-4f44e600-debe-11eb-92e0-9fbb4f67bb92.png)
+
 dimensions of the robot base structure 
